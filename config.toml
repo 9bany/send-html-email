@@ -1,0 +1,4 @@
+server="smtp.gmail.com"
+port=25
+email=""
+password=""
